@@ -28,6 +28,7 @@
 
 * Migrate `vertical_whitespace` rule from SourceKit to SwiftSyntax for improved performance.  
   [Matt Pennig](https://github.com/pennig)
+
 * Add support for regex pattern in the `excluded` option of the `file_name` rule.  
   [Ueeek](https://github.com/Ueeek)
   [#6066](https://github.com/realm/SwiftLint/issues/6066)
